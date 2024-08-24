@@ -1,5 +1,10 @@
 # Super Store Analysis
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+
 ### Project Overview
 This project analyzes sales and profit data from a Super Store using Tableau for visualization. The goal was to derive actionable insights and provide recommendations to improve business performance.
 
