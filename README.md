@@ -6,7 +6,12 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
+---
 This project analyzes sales and profit data from a Super Store using Tableau for visualization. The goal was to derive actionable insights and provide recommendations to improve business performance.
+
+![Super Store Profit Dashboard](https://github.com/user-attachments/assets/2b55e054-37f4-441a-83ef-011c69bff4e9)
+![Super Store Sales Dashboard](https://github.com/user-attachments/assets/b9622822-641a-4670-bd1d-0662ac119111)
+
 
 ### Data Visualization
 Two main dashboards were created:
@@ -16,6 +21,7 @@ Two main dashboards were created:
 These dashboards provide a comprehensive view of the store's performance across various dimensions including time, product categories, customer segments, and shipping modes.
 
 ## Key Insights
+---
 ### Overall Performance
 - Total Sales: $15,040,854.63
 - Total Profit: $1,860,500.67
@@ -50,6 +56,7 @@ These dashboards provide a comprehensive view of the store's performance across 
 - First Class shipping, despite lower sales, yields a higher profit margin
 
 ## Recommendations
+---
 
 1. **Optimize Product Mix**: Focus on promoting high-profit items like those in the Technology and Copiers categories.
 
